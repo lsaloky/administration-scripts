@@ -1,0 +1,173 @@
+; List of freeware. Software listed here will not be shown in the report.
+; Software names are case sensitive. Commented and blank lines are ignored.
+
+7-Zip 4.42
+Adobe Flash Player 9 ActiveX
+Adobe Reader 7.0.5
+Adobe Reader 7.0.5 Language Support
+Adobe Reader 7.0.5 - Czech
+Adobe Reader 7.0.7
+Adobe Reader 7.0.8
+Adobe Reader 7.0.9
+Adobe Reader 8
+Adobe Reader Korean Fonts
+Adobe® Photoshop® Album Starter Edition 3.0
+Broadcom Advanced Control Suite
+Broadcom Gigabit Integrated Controller
+ATI Catalyst Control Center
+Catalyst Control Center Core Implementation
+Catalyst Control Center Graphics Full Existing
+Catalyst Control Center Graphics Full New
+Catalyst Control Center Graphics Light
+ccc-utility
+ccc-core-static
+Citrix Presentation Server Client
+CDBurnerXP Pro 3
+Client Security Solution
+Dell Resource CD
+Diskeeper Lite
+eEye Retina MS06-040 Netapi32 Scanner
+Extended Language Support Fonts Package
+GAT Access
+GAT Manager
+GAT_MT_010_Download
+Google Desktop
+Hummingbird Exceed
+Interwise Participant
+IBM 32-bit Runtime Environment for Java 2, v1.4.2
+Java 2 Runtime Environment, SE v1.4.2_03
+Java 2 Runtime Environment, SE v1.4.2_11
+Java 2 Runtime Environment, SE v1.4.2_13
+Java 2 Runtime Environment, SE v1.4.2_0
+J2SE Runtime Environment 5.0 Update 4
+J2SE Runtime Environment 5.0 Update 6
+J2SE Runtime Environment 5.0 Update 7
+J2SE Runtime Environment 5.0 Update 8
+J2SE Runtime Environment 5.0 Update 9
+J2SE Runtime Environment 5.0 Update 10
+J2SE Runtime Environment 5.0 Update 11
+Java(TM) SE Runtime Environment 6
+Java(TM) SE Runtime Environment 6 Update 1
+MetaFrame Presentation Server Client
+Microsoft .NET Compact Framework 1.0 SP3 Developer
+Microsoft .NET Compact Framework 2.0
+Microsoft .NET Framework 1.1
+Microsoft .NET Framework 2.0
+Microsoft .NET Framework 3.0
+Microsoft ActiveSync 4.0
+Microsoft Application Error Reporting
+Microsoft Group Policy Management Console with SP1
+Microsoft Office Visio Viewer 2003 (English)
+Microsoft OLE DB Provider for Visual FoxPro
+Microsoft Virtual PC 2004
+Microsoft Virtual PC 2007
+MSXML 4.0 SP2 (KB927978)
+MSXML 6.0 Parser (KB927977)
+MySQL Server 5.0
+My Way Search Assistant
+Nokia Connectivity Cable Driver
+Nokia PC Suite
+Oracle Data Provider for .NET Help
+QuickTime
+RecordNow Audio
+RecordNow Copy
+RecordNow Data
+Roxio DLA
+Roxio RecordNow Copy
+Roxio Express Labeler
+Roxio RecordNow Copy
+Roxio RecordNow Data
+Roxio RecordNow Audio
+ServiceCenter Client
+Sonic Audio module
+Sonic Copy Module
+Sonic DLA
+Sonic Express Labeler
+Sonic RecordNow Audio
+Sonic RecordNow Data
+Sonic RecordNow!
+Sonic Update Manager
+Sony Ericsson PC Suite
+Sony Ericsson PC Suite 1.20.173
+ThinkVantage Active Protection System
+ThinkPad Bluetooth with Enhanced Data Rate Software
+ThinkVantage Fingerprint Software 5.4
+ThinkVantage Fingerprint Software 5.6
+ThinkVantage System Update
+TOSHIBA HDD Protection
+TOSHIBA Password Utility
+TOSHIBA Utilities
+User Profile Hive Cleanup Service
+VMware Management Interface
+VMware Player
+VMware Server
+VMware Server Standalone
+VMware VmCOM Scripting API
+VMware VmPerl Scripting API
+VMware Workstation
+VMware VirtualCenter
+WebFldrs XP
+Windows Communication Foundation
+Windows Defender
+Windows Defender Signatures
+Windows Genuine Advantage v1.3.0254.0
+Windows Live Messenger
+Windows Media Connect
+Windows Mobile Device Center
+Windows Mobile Device Center Driver Update
+Windows Presentation Foundation
+Windows Resource Kit Tools
+Windows Resource Kit Tools - SubInAcl.exe
+Windows Rights Management Client Backwards Compatibility SP2
+Windows Rights Management Client with Service Pack 2
+Windows Server 2003 Service Pack 1 Administration Tools Pack
+Windows Server 2003 Administration Tools Pack
+Windows Workflow Foundation
+
+; HP Software
+5600
+5600Trb
+5600_Help
+AiO_Scan
+AiOSoftware
+BufferChm
+CP_Package_Variety1
+CP_Package_Variety2
+CP_Package_Variety3
+CustomerResearchQFolder
+Destinations
+DeviceManagementQFolder
+DocProc
+eSupportQFolder
+Fax
+HPProductAssistant
+HP Image Zone Express
+HP Software Update
+MarketResearch
+NewCopy
+ProductContext
+Readme
+Scan
+ScannerCopy
+SolutionCenter
+Status
+TrayApp
+Unload
+WebReg
+
+; ----- Intel Freeware -----
+mCore
+mHlpDel
+mIWA
+mLogView
+mMHouse
+mPfMgr
+mPfWiz
+mProSafe
+mDriver
+mDrWiFi
+mSSO
+mWlsSafe
+mWMI
+mXML
+mZConfig
