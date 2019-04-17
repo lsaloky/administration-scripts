@@ -1,0 +1,1 @@
+runas /env /profile /user:DOMAIN\username "wscript ADHealthCheck.vbs"
